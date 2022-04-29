@@ -2,4 +2,4 @@ static/dir/
 static/
 *.log
 /dir/
-/Renamed_File/
+Renamed_File
